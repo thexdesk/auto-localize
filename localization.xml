@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<terms>
+  <items culture="en-US">
+    <item mode="server" key="Demo.Test">This is an Example.</item>
+    <item mode="server" key="Demo.Hello">Hello World!</item>
+    <length>1</length>
+  </items>
+  <items culture="es-MX">
+    <item mode="server" key="Demo.Test">Este es un ejemplo.</item>
+    <item mode="server" key="Demo.Hello">Hola Mundo!</item>
+    <length>1</length>
+  </items>
+  <items culture="de-DE">
+    <item mode="server" key="Demo.Test">Dies ist ein Beispiel.</item>
+    <item mode="server" key="Demo.Hello">Hallo Welt!</item>
+    <length>1</length>
+  </items>
+  <items culture="fr-FR">
+    <item mode="server" key="Demo.Test">Ceci est un exemple.</item>
+    <item mode="server" key="Demo.Hello">Bonjour le monde!</item>
+    <length>1</length>
+  </items>
+  <items culture="fi-FI">
+    <item mode="server" key="Demo.Test">Tämä on esimerkki.</item>
+    <item mode="server" key="Demo.Hello">Hei maailma!</item>
+    <length>1</length>
+  </items>
+  <items culture="nl-NL">
+    <item mode="server" key="Demo.Test">Dit is een voorbeeld.</item>
+    <item mode="server" key="Demo.Hello">Hallo wereld!</item>
+    <length>1</length>
+  </items>
+</terms>

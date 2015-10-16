@@ -1,0 +1,13 @@
+{
+  "name": "auto-localize",
+  "version": "0.1.0",
+  "description": "Auto-localize terms using the Google translate API",
+  "main": "localize.js",
+  "license": "MIT",
+  "dependencies": {
+    "google-translate": "^1.0.0",
+    "linq": "^3.0.5",
+    "sync": "^0.2.5",
+    "xml2js": "^0.4.12"
+  }
+}
