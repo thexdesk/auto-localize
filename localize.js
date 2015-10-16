@@ -1,4 +1,4 @@
-var googleTranslate = require('google-translate')('AIzaSyDdqV0ptgYR6Je7v04g_uWI4yOnvR-bUOQ');
+var googleTranslate = require('google-translate')('XXXXXXXXXXX');
 
 if (process.argv.length < 3) {
     console.log('Usage: node ' + process.argv[1] + ' FILENAME');
