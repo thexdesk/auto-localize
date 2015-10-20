@@ -6,7 +6,7 @@ if (process.argv.length < 3) {
 }
 
 var filename = process.argv[2];
-var langs = ['es-MX', 'de-DE', 'fr-FR', 'fi-FI', 'nl-NL'];
+var langs = ['es-MX', 'de-DE', 'fr-FR'];
 var fs = require('fs');
 var xml2js = require('xml2js');
 var Enumerable = require('linq');
